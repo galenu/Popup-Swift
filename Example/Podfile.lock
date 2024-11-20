@@ -1,0 +1,23 @@
+PODS:
+  - Popup-Swift (1.0.0):
+    - SnapKit
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - Popup-Swift (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  Popup-Swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Popup-Swift: 07e32cc83b89026c8ff058d125b5f5caf0aecbdf
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: ce8137e63f0e1c663e9490158889f66268eea882
+
+COCOAPODS: 1.15.2
